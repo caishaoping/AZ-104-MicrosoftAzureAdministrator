@@ -1,2 +1,15 @@
 Relevant link:
 Lab environment: https://aka.ms/esilabsInstructions on GitHub: https://aka.ms/az104labsSupport: https://esisupport.microsoft.comCourseware on Learn: Collections - MSFTofficialCurriculum-4292 | Microsoft DocsAzure Pass credit balance: https://www.microsoftazuresponsorships.com/
+
+
+App Service Plan: 
+
+Shared compute: Free, basic   running on shared VMs
+
+Dedicated compute: basic, standard, premium( V2 and V3)  running on dedicated VMs
+
+Isolocated compute: Isolocated, IsolatedV2 running on dedicated VNets
+
+
+
+
